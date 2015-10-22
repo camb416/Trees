@@ -1,5 +1,5 @@
 #Trees
-implemented in Processing
+Procedurally generated tree patterns in Processing
 ![Screenshot](screenshots/Screen Shot 2013-07-15 at 3.46.09 PM.png)
 ![Screenshot](screenshots/Screen Shot 2013-07-15 at 3.49.55 PM.png)
 ![Screenshot](screenshots/Screen Shot 2013-07-15 at 3.54.11 PM.png)
